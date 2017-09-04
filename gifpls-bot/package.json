@@ -1,0 +1,15 @@
+{
+  "name": "gifpls-bot",
+  "version": "1.0.0",
+  "description": "A little discord bot who reproduce the \"!giphy\" command.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "avallete",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "giphy-api": "^1.2.7"
+  }
+}
